@@ -1,0 +1,37 @@
+.swim-container {
+  position: relative;
+  border: 2px solid green;
+}
+.box {
+  border: 2px dotted tomato;
+  width: 200px;
+}
+
+/* .ring {
+  position: relative;
+  left: 50px;
+  top: -30px;
+} */
+
+/* .ring {
+  position: absolute;
+  left: 100px;
+} */
+
+/* .ring {
+  position: sticky;
+  top: 0px;
+} */
+.ring {
+  position: fixed;
+  top: 200px;
+  left: 80px;
+}
+.dummy {
+  border: 2px solid blue;
+  width: 200px;
+  height: 200px;
+}
+.another {
+  border: 2px solid black;
+}
